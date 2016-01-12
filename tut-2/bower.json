@@ -1,0 +1,22 @@
+{
+  "name": "AngularJS-Skeleton-Tut-2",
+  "version": "0.0.1",
+  "description": "A simple first AngularJS App with NodeJS",
+  "authors": [
+    "Grischa Aranda"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "~0.2.15"
+  }
+}

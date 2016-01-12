@@ -50,9 +50,11 @@ Thumbs.db
 ###################
 .idea
 
-# Ignore Node modules  #
-########################
+# Ignore Node, Bower & Grunt  #
+###############################
 node_modules
+bower_components
+build
 
 # END - My-Config #
 ########################

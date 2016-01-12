@@ -19,7 +19,15 @@ $ cd tutorials/tut-1/
 $ npm start
 ```
 
+## Tutorials
+- tut 1 => Basic `welcome-Page` with `npm`
+- tut 2 => Basic `welcome-Page` with `npm`, `bower` & `gulp`
+
 For more infomations about a tutorial read the `README.md` in the tutorial section.
+
+
+### ToDo
+- tut 3 => Basic `welcome-Page` with `npm`, `bower`, `gulp` & `karma`
 
 ## License
 MIT
